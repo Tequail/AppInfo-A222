@@ -33,6 +33,7 @@
       <div>
       <a href="dev/login" class="btn btn-link">开发者平台 入口</a>
       <a href="http://www.baidu.com">点击进入百度</a>
+      <a href="http://www.bdqn.com">点我进入北大青鸟官网</a>
       </div>
     </div>
   </body>
